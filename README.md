@@ -32,3 +32,7 @@ __Melhoria 1__, _Melhoria 2_
 ### Imagem local:
 
 ![Logo do Python](img/Python.png)
+
+### Imagem externa:
+
+![Logo do PHP](https://play-lh.googleusercontent.com/cyTI43JCjc4L-e1m7FvJhI1VhmTSJ4AMNZoqhkp0Xm6_NOtHbaewp9UPVLw5R3-tZIU)
