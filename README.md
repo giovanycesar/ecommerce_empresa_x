@@ -46,3 +46,11 @@ __Melhoria 1__, _Melhoria 2_
 Contribuidor principal: https://github.com/giovanycesar
 
 [![Logo do Java](https://img.icons8.com/color/512/java-coffee-cup-logo--v2.png)](https://github.com/giovanycesar)
+
+#### Código da função:
+
+```javascript
+function soma(a,b){
+    return a+b;
+}
+```
