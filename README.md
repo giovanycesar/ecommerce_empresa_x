@@ -42,3 +42,5 @@ __Melhoria 1__, _Melhoria 2_
 [Google](https://www.google.com)
 
 [https://giovanyalmeida-translator.netlify.app/](https://giovanyalmeida-translator.netlify.app/)
+
+Contribuidor principal: https://github.com/giovanycesar
