@@ -35,7 +35,7 @@ __Melhoria 1__, _Melhoria 2_
 
 ### Imagem externa:
 
-![Logo do PHP](https://w7.pngwing.com/pngs/270/145/png-transparent-php-web-development-javascript-logo-c-others-blue-text-trademark.png)
+![Logo do PHP](https://pngdownload.io/wp-content/uploads/2024/02/PHP-Logo-symbol-of-the-scripting-language-web-development-transparent-PNG-image-jpg.webp)
 
 ### Links interessantes:
 
@@ -44,3 +44,5 @@ __Melhoria 1__, _Melhoria 2_
 [https://giovanyalmeida-translator.netlify.app/](https://giovanyalmeida-translator.netlify.app/)
 
 Contribuidor principal: https://github.com/giovanycesar
+
+(![Logo do Java](https://www.citypng.com/public/uploads/preview/hd-java-programming-logo-png-701751694771848sm650yaqjt.png))(https://github.com/giovanycesar)
