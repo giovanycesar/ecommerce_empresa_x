@@ -35,7 +35,7 @@ __Melhoria 1__, _Melhoria 2_
 
 ### Imagem externa:
 
-![Logo do PHP](https://pngdownload.io/wp-content/uploads/2024/02/PHP-Logo-symbol-of-the-scripting-language-web-development-transparent-PNG-image-jpg.webp)
+![Logo do PHP](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png)
 
 ### Links interessantes:
 
@@ -45,4 +45,4 @@ __Melhoria 1__, _Melhoria 2_
 
 Contribuidor principal: https://github.com/giovanycesar
 
-(![Logo do Java](https://www.citypng.com/public/uploads/preview/hd-java-programming-logo-png-701751694771848sm650yaqjt.png))(https://github.com/giovanycesar)
+[![Logo do Java](https://img.icons8.com/color/512/java-coffee-cup-logo--v2.png)](https://github.com/giovanycesar)
